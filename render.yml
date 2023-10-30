@@ -1,0 +1,9 @@
+services:
+  - name: golang-proxy-server
+    env: web
+    buildCommand: go build -o main cmd/main.go
+    startCommand: ./main
+    envVars:
+      SERVER_PORT: "8080"
+    healthCheckPath: /healthcheck
+    healthCheckPort: 8081

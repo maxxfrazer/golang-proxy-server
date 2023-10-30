@@ -1,0 +1,13 @@
+{
+    "name": "Simple Golang Proxy Server",
+    "description": "A simple proxy server implemented in Golang that allows you to route incoming traffic to a specified destination server based on the provided URL and port.",
+    "repository": "https://github.com/maxxfrazer/golang-proxy-server",
+    "website": "https://github.com/maxxfrazer/golang-proxy-server",
+    "keywords": [
+        "proxy",
+        "proxy-server",
+        "golang",
+        "go",
+        "networking"
+    ]
+}
