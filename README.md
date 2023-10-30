@@ -11,6 +11,12 @@ A simple proxy server implemented in Golang that allows you to route incoming tr
 
 ## Getting Started
 
+### One-click launch options
+
+| Railway |
+|:-:|
+| [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/y0AKsJ?referralCode=waRWUT) |
+
 ### Prerequisites
 
 Before you begin, ensure you have a Go development environment set up.
